@@ -2,56 +2,64 @@
   "basics": {
     "name": "Rafael Abitz",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://rabitz808.github.io/images/face.png",
+    "email": "rabitz@hawaii.edu",
+    "phone": "808-445-2780",
+    "website": "https://rabitz808.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "92-1301 Punawainui St.",
+      "postalCode": "96707",
+      "city": "Kapolei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rabitz808",
+        "url": "http://github.com/rabitz808"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "rabitz",
+        "url": "www.linkedin.com/in/rafael-conrad-abitz-39893a203"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "raf808",
+        "url": "http://instagram.com/808raf"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Gaming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Adobe Premiere",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Crypto",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "3ds Max",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Maya Software",
       "keywords": [
       ]
     }
@@ -65,8 +73,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -74,19 +80,17 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows 10",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
