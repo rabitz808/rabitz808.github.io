@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/player.png
 title: The Chase
 permalink: projects/thechase
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-27
 labels:
   - Java
-summary: A game I developed as a final project with my partner Charollote in ICS 111 using Java.
+summary: A game I developed as a final project with my partner Charlotte in ICS 111 using Java.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/theChase.png">
