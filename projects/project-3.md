@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/hypotenuse.png
-title: Hypotenuse
+title: Hypotenuse Solver
 permalink: projects/hypotenuse
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-22
@@ -11,7 +11,7 @@ labels:
 summary: A program I developed for ICS 212 using C that utillizes math functions to calculate the hypothenuse of a right triangle of randomly generated lengths.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/hypotenusefiles.png">
 </div>
 
