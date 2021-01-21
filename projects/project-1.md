@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/gmod.png
 title: Gmod Playermodels
 permalink: projects/playermodels
 # All dates must be YYYY-MM-DD format!
@@ -14,10 +14,7 @@ summary: For this project, I learned how to use 3d modelling software to rig and
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/workshop.png">
 </div>
 
 Back in 2014, I used to play a physics based sandbox game called Garry's Mod (Gmod) on the steam platform for pc. It's a game that uses the Lua programming language, giving players the tools they need to develop their own gamemodes. The most popular gamemodes during my time playing were: Trouble in Terrorist Town, DarkRp, and my personal favorite DeathRun. Each gamemode was usually developed by a small group of players and realeased to the public so everyone could host their own version of it. 
@@ -33,7 +30,13 @@ player_manager.AddValidModel( "Asuna", 	"models/player/sao/asunav2.mdl" );
 list.Set( "PlayerOptionsModel", "Asuna", 	"models/player/sao/asunav2.mdl" );
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+I ported over the model Asuna from a sword art online video game.
+Here is a picture of the model in source film maker: (Note - I remember making the textures for the model which is why it looks so poorly done)
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/asuna.png">
+</div>
+
+You can view my steamworkshop addons at this [steam link](https://steamcommunity.com/id/sidestep/myworkshopfiles/).
 
 
 
