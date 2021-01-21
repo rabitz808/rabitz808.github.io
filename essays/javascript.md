@@ -12,8 +12,6 @@ labels:
   - Lua
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
 ## First Dive
 When learning a programming language, everyone has to start somewhere. In my case, the first time I was introduced to a programming language was back in 2014. I was introduced to Lua through a game called Garry's Mod (Gmod) and although I never fully understood most of the code that I would see, I taught myself how to code just enough through trial and error. I would change a few lines at a time and run the game to see if there were errors. If there were any errors, I'd go back into the code and troubleshoot till I got it working. The feeling of sucessfully accomplishing my desired goal through the use of Lua was overwhelming. In my case, it was to convert models into playable characters and add them to a cosmetic shop for my Gmod server. 
 
