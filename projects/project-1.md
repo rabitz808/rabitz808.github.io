@@ -10,7 +10,7 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: For this project, I learned how to use 3d modelling software to rig and skin models for a game called Gmod on steam. After rigging the models, I then ported it over by turning it into an addon available on the steam workshop for everyone to enjoy. The addon uses lua to make the model playable as a character.
+summary: For this project, I learned how to use 3d modeling software to rig and skin models for a game called Gmod on steam. After rigging the models, I then ported it over by turning it into an addon available on the steam workshop for everyone to enjoy. The addon uses lua to make the model playable as a character.
 ---
 
 <div class="ui small rounded images">
