@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: The Chase
-permalink: projects/vacay
+permalink: projects/thechase
 # All dates must be YYYY-MM-DD format!
 date: 2019-10-27
 labels:
