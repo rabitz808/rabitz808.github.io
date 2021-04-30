@@ -11,7 +11,7 @@ labels:
   - Graphics Cards
 ---
 
-## The Chip Shortage, Scalpers, and Miners
+## The Chip Shortage, The Scalpers, and The Miners
 It's 2021 and there's a global chip shortage! So what does this mean for you? It means you can't get your hands on that sweet new rtx 3080 graphics card unless you're willing to fork up some cash and pay a premium to scalpers. I'm here to tell you NO, don't you dare do that! There is a way you can get one that doesn't involve you selling a kidney on the black market. Keep reading cause I'm about to spill the beans. Thats right, the answer you've been searching for all this time is two words, DESIGN PATTERNS. Not what you were expecting huh? Well let me explain what it has to do with anything at all. In simple terms, a design pattern is a solution that you can apply to solve a reoccuring problem. The problem we're facing is that every graphics card on the market goes out of stock within minutes of restock. Online retailers like Zotac, BestBuy, Amazon, and WallMart all suffer from this problem. Using an observer design pattern and event handlers, you can design a bot that monitors these websites and does an action when it notices a change. It's that simple! Now I know you're lazy so let me do you a favor and present you with one already made. Just click [here](https://github.com/Hari-Nagarajan/fairgame) and follow the instructions on github. Its an open source bot that refreshes amazon listings and attempts to purchase the item if it meets the given price range. Now get to it and help save a rtx 3080 graphics card from working to death as an Etherium miner.
 
 ## That's Not All
