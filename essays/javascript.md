@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Relearning the Basics
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-20
+date: 2021-01-28
 labels:
   - Software Engineering
   - Learning
