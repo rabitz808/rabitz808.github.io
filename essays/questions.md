@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Getting Help the Right Way!
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-27
+date: 2021-01-27
 labels:
   - Software Engineering
   - Stack Overflow
