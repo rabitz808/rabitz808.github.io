@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sign-in.png
+image: images/sign-in_100x100.png
 title: UH-Ratings
 permalink: projects/uh-ratings
 # All dates must be YYYY-MM-DD format!
