@@ -1,0 +1,26 @@
+---
+layout: project
+type: project
+image: images/sign-in.png
+title: UH-Ratings
+permalink: projects/uh-ratings
+# All dates must be YYYY-MM-DD format!
+date: 2021-05-13
+labels:
+  - Meteor
+  - React
+  - Semantic UI
+summary: A group project on website development led my me and 4 other members to design a website capable of rating professors and classes for our college campus.
+---
+
+<div class="ui large images">
+  <img class="ui image" src="../images/sign-in.png">
+</div>
+
+## The Goal
+As a final group project for our ICS 314 class, we we're tasked with forming a group and working on developing a website. My group members were Hangbo Zhang, Nicholas Lee, Tayolor Wong, Clement Chow, and myself. We decided to make a website capable of rating professors and classes for our college campus. This was a first and exciting project for me mainly due to the fact that it was one of the more larger scaled projects that required us to work as a team. I quickly got used to creating tasks and issues for each milestone as well as pulling and merging branches on github, however there were still some challanges we faced.
+
+## Mistakes Were Made
+One of the challenges we faced was when we were creating issues to be completed. As it was brought to our attention, our naming of the issues did not match the number of the issue card. For example, one task would be called issue-12 and it would be the 15th issue created. This was an easy problem to solve as we just needed to update our issue numbers to match the issue shown. It could of been bad in a sense that we could have potentially messed up our issues when creating branches if we weren't paying attention to the issue number. Its also helps save time since you dont have to think when you see an issue as the numbers should match. Next was the problem of pulling and merging. After analyzing our network history on github, we realized that a lot of our branches were inconsistent. A lot of the times, branches were made from other branches and not the main. They should all be branched off the main then once the issue is solved, merged back into the main. Thats would prevent outdated code from being merged back into the main in case an accident happened.
+
+Visit us on [Github](https://uh-ratings.github.io/)
