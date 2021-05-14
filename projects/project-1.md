@@ -17,7 +17,7 @@ summary: For this project, I learned how to use 3d modeling software to rig and 
   <img class="ui image" src="../images/workshop.png">
 </div>
 
-Back in 2014, I used to play a physics based sandbox game called Garry's Mod (Gmod) on the steam platform for pc. It's a game that uses the Lua programming language, giving players the tools they need to develop their own gamemodes. The most popular gamemodes during my time playing were: Trouble in Terrorist Town, DarkRp, and my personal favorite DeathRun. Each gamemode was usually developed by a small group of players and realeased to the public so everyone could host their own version of it. 
+Back in 2014, I used to play a physics based sandbox game called Garry's Mod (Gmod) on the steam platform for pc. It's a game that uses the Lua programming language, giving players the tools they need to develop their own gamemodes. The most popular gamemodes during my time playing were: Trouble in Terrorist Town, DarkRp, and my personal favorite DeathRun. Each gamemode was usually developed by a small group of players and released to the public so everyone could host their own version of it.
 
 I hosted my own server of the gamemode DeathRun in which there are two group of 20 or more players. Each round 2 random players are selected to play as Death and the rest are Runners. The Runners have to run through a map full of traps that can be activated by Death players at the press of a button. The game ends if all Runners are eliminated or if some Runners manage to survive till the end.
 
