@@ -1,45 +1,59 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Rafael Abitz",
+    "label": "Software Engineer",
+    "picture": "https://github.com/rabitz808.png",
+    "email": "rabitz@hawaii.edu",
+    "phone": "808-445-2780",
+    "website": "https://rabitz808.github.io",
+    "summary": "I graduated from UH Manoa in August of 2022 with a Bachelor of Science in Computer Science. I am actively seeking employment opportunities in the field.",
+    "location": { "address": "92-1301 Punawainui St.", "postalCode": "96707", "city": "Kapolei", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "rabitz808", "url": "http://github.com/rabitz808" },
+      { "network": "linkedin", "username": "rabitz808", "url": "http://linkedin.com/in/rabitz808" },
+      { "network": "instagram", "username": "808raf", "url": "http://instagram.com/808raf" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "A.I." },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "CSS", "HTML", "Javascript", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2019-09-01",
+      "endDate": "2022-09-01",
       "courses": [
+        "ICS 111: Intro to Computer Science I",
+        "ICS 141: Discrete Mathematics I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 321: Database Systems I",
+        "ICS 312: Machine-Lvl & Systems Programing",
+        "ICS 332: Operating Systems",
+        "ICS 414: Software Engineering II",
+        "ICS 451: Data Networks",
+        "ICS 427: Software Quality Assurance",
+        "ICS 434: Data Science Fundamentals",
+        "ICS 469: Cognitive Science",
+        "ICS 428: Digital Forensics"
       ]
     }
   ],
