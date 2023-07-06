@@ -30,4 +30,3 @@ include:
   - _data
 plugins:
   - jekyll-gist
- 
