@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Embracing Challenges: A Journey of Growth
+title: Embracing Challenges A Journey of Growth
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-02
 labels:
