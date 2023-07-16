@@ -2,9 +2,8 @@
 layout: essay
 type: essay
 title: Mastering the Art of Asking Questions
-
+# All dates must be YYYY-MM-DD format!
 date: 2021-01-27
-
 labels:
   - Software Engineering
   - Stack Overflow

@@ -2,9 +2,8 @@
 layout: essay
 type: essay
 title: Empowering Solutions with Design Patterns
-
+# All dates must be YYYY-MM-DD format!
 date: 2021-04-29
-
 labels:
   - Software Engineering
   - Design Patterns

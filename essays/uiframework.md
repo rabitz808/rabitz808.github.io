@@ -2,9 +2,8 @@
 layout: essay
 type: essay
 title: Unlocking Efficiency with UI Frameworks
-
+# All dates must be YYYY-MM-DD format!
 date: 2021-02-25
-
 labels:
   - HTML
   - Semantic UI
