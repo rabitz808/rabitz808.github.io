@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hypotenuse.png
+image: img/project-3/hypotenuse.png
 title: "Hypotenuse Solver"
 date: 2020
 published: true
@@ -10,11 +10,10 @@ labels:
 summary: "A program I developed for ICS 212 using C that utilizes math functions to calculate the hypotenuse of a right triangle of randomly generated lengths."
 ---
 
-<img class="img-fluid" src="../images/hypotenuse.png>
+<img class="img-fluid" src="../img/project-3/hypotenusefiles.png>
 
 <hr>
 
-<pre>
 ### Introduction
 
 The Hypotenuse Solver is a command-line based program that I developed for my ICS 212 class using the C programming language. The goal was to create a simple yet powerful program that utilized math functions to calculate the hypotenuse of a right triangle with randomly generated side lengths.
@@ -44,4 +43,3 @@ I particularly enjoyed incorporating the `srand()` function to simulate randomne
 ### Conclusion
 
 The Hypotenuse Solver was a rewarding project, demonstrating my proficiency in C and my ability to create useful command-line programs. By exploring various math functions and implementing the random side lengths, I honed my programming abilities and deepened my understanding of C.
-</pre>

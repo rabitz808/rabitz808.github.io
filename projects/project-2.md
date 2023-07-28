@@ -16,7 +16,6 @@ summary: "A game I developed as a final project with my partner Charlotte in ICS
 
 <hr>
 
-<pre>
 ### Introduction
 
 "The Chase" is a captivating game that my partner, Charlotte, and I developed as the final project for ICS 111 using Java. In this thrilling adventure, players must collect three gold coins and reach the opposite end of the map before the timer runs out. The journey is not without its challenges, as animals and cars roam the map, posing a potential hazard to the player. To add to the excitement, you begin with three lives, and getting hit by an obstacle will cost you a life and send you back to the starting point.
@@ -36,4 +35,3 @@ Beyond the class implementation, this project provided me with valuable insights
 ### Conclusion
 
 Developing "The Chase" was an enjoyable and rewarding experience. I not only deepened my understanding of Java classes but also learned how to collaborate effectively within a team. Furthermore, exploring animations and sprite sheets expanded my skill set, opening up new avenues for future projects. I look forward to creating more captivating games in the future.
-</pre>
