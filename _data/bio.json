@@ -79,11 +79,11 @@
       ]
     }
   ],
-  "Projects": [
+  "projects": [
 	{
-      "title": "Calgainz",
-      "date": "2022",
-      "website": "https://github.com/Calboyz/calgainz/wiki",
+      "name": "Calgainz",
+      "endDate": "2022",
+      "url": "https://github.com/Calboyz/calgainz/wiki",
       "summary": "Implemented a comprehensive web application used to monitor and track daily calorie intake",
 	  "highlights": [
         "Users can set a calorie goal for the day and record their food and exercise activities.",
@@ -92,9 +92,9 @@
       ]
     },
 	{
-      "title": "UH-Cryptics",
-      "date": "2021",
-      "website": "https://uh-cryptics.github.io/",
+      "name": "UH-Cryptics",
+      "endDate": "2021",
+      "url": "https://uh-cryptics.github.io/",
       "summary": "Engineered an online application aimed at managing the inventory of medical supplies for clinics in Hawai’i with a team of 8. The project focuses on creating a simple and user-friendly interface for users to easily interact with the system.",
 	  "highlights": [
         "Landing page with options to login or register a new user account.",
@@ -104,9 +104,9 @@
       ]
     },
     {
-      "title": "UH-Ratings",
-      "date": "2021",
-      "website": "https://uh-ratings.github.io/",
+      "name": "UH-Ratings",
+      "endDate": "2021",
+      "url": "https://uh-ratings.github.io/",
       "summary": "Developed a platform designed to address the problem faced by students when deciding on which classes to take at the University of Hawaii. It offers a class review system where UH students can post and submit reviews for the classes they have taken. The reviews cover various aspects of the classes, including class content, textbooks usage, and practicality. The application aims to help students make more informed decisions about their class choices and assess how a specific class aligns with their career goals.",
 	  "highlights": [
         "Users can sign in to their accounts or register as new users.",
