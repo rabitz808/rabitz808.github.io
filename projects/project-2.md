@@ -10,7 +10,7 @@ labels:
 summary: "A game I developed as a final project with my partner Charlotte in ICS 111 using Java."
 ---
 
-<img class="img-fluid" src="../img/project-2/player.png">
+<img class="img-fluid" src="../img/project-2/theChase.png">
 
 <hr>
 
