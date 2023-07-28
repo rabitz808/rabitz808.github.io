@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Expanding Horizons Lessons Beyond Web Development
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-13
+date: 2022-05-13
 labels:
   - Software Engineering
   - Thoughts
