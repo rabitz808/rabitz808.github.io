@@ -15,6 +15,9 @@ summary: "In this project, I delved into 3D modeling and learned to rig and skin
 
 <img class="img-fluid" src="..img/project-1/workshop.png">
 
+<hr>
+
+<pre>
 ### Introduction
 
 Back in 2014, I immersed myself in the captivating world of Garry's Mod (Gmod), a physics-based sandbox game available on Steam for PC. One of the remarkable features of Gmod was its use of the Lua programming language, providing players with tools to develop their own game modes. During that time, the most popular gamemodes were Trouble in Terrorist Town, DarkRp, and my personal favorite, DeathRun. Each gamemode was usually developed by small groups of players and released publicly, allowing others to host their own versions.
@@ -49,3 +52,4 @@ I proudly uploaded my 3D models as addons to the Steam Workshop, making them acc
 ### Conclusion
 
 This project not only honed my 3D modeling skills but also allowed me to contribute to the vibrant Garry's Mod community. I enjoyed seeing players on my server embrace these custom playermodels and the sense of accomplishment they brought to the DeathRun gamemode.
+</pre>
