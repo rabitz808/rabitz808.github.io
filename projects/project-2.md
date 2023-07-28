@@ -10,8 +10,6 @@ labels:
 summary: "A game I developed as a final project with my partner Charlotte in ICS 111 using Java."
 ---
 
-## The Chase - A Java Game Project
-
 <img class="img-fluid" src="../img/project-2/player.png>
 
 <hr>
