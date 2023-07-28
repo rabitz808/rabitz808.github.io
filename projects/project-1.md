@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/project-1/gmod.png
 title: "Garry's Mod (Gmod) Playermodels"
-date: 2023
+date: 2018
 published: true
 labels:
   - Lua
@@ -20,7 +20,7 @@ summary: "In this project, I delved into 3D modeling and learned to rig and skin
 <pre>
 ### Introduction
 
-Back in 2014, I immersed myself in the captivating world of Garry's Mod (Gmod), a physics-based sandbox game available on Steam for PC. One of the remarkable features of Gmod was its use of the Lua programming language, providing players with tools to develop their own game modes. During that time, the most popular gamemodes were Trouble in Terrorist Town, DarkRp, and my personal favorite, DeathRun. Each gamemode was usually developed by small groups of players and released publicly, allowing others to host their own versions.
+Back in 2018, I immersed myself in the captivating world of Garry's Mod (Gmod), a physics-based sandbox game available on Steam for PC. One of the remarkable features of Gmod was its use of the Lua programming language, providing players with tools to develop their own game modes. During that time, the most popular gamemodes were Trouble in Terrorist Town, DarkRp, and my personal favorite, DeathRun. Each gamemode was usually developed by small groups of players and released publicly, allowing others to host their own versions.
 
 ### DeathRun Server
 
