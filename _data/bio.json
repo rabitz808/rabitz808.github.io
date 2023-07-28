@@ -60,69 +60,62 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Kapiolani Community College Testing Center",
+      "position": "Exam Proctor",
+      "website": "https://guides.library.kapiolani.hawaii.edu/testing",
+      "startDate": "2017-05-01",
+      "endDate": "2019-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conducted various administrative tasks, including handling phone calls, providing exceptional customer service, and maintaining testing equipment.",
+        "Proctored exams for all students, ensuring a secure and controlled testing environment."
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+  "Projects": [
+	{
+      "title": "Calgainz",
+      "date": "2022",
+      "website": "https://github.com/Calboyz/calgainz/wiki",
+      "summary": "Implemented a comprehensive web application used to monitor and track daily calorie intake",
+	  "highlights": [
+        "Users can set a calorie goal for the day and record their food and exercise activities.",
+        "Meeting the calorie goal rewards users with 10 points.",
+		"The top 25 users with the most points appear on the leaderboard page."
+      ]
+    },
+	{
+      "title": "UH-Cryptics",
+      "date": "2021",
+      "website": "https://uh-cryptics.github.io/",
+      "summary": "Engineered an online application aimed at managing the inventory of medical supplies for clinics in Hawai’i with a team of 8. The project focuses on creating a simple and user-friendly interface for users to easily interact with the system.",
+	  "highlights": [
+        "Landing page with options to login or register a new user account.",
+        "Inventory information display for medications and supplies.",
+		"Search and filter options for items based on various parameters.",
+		"Admin page to edit/delete inventory information and manage users."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "title": "UH-Ratings",
+      "date": "2021",
+      "website": "https://uh-ratings.github.io/",
+      "summary": "Developed a platform designed to address the problem faced by students when deciding on which classes to take at the University of Hawaii. It offers a class review system where UH students can post and submit reviews for the classes they have taken. The reviews cover various aspects of the classes, including class content, textbooks usage, and practicality. The application aims to help students make more informed decisions about their class choices and assess how a specific class aligns with their career goals.",
+	  "highlights": [
+        "Users can sign in to their accounts or register as new users.",
+        "The course review page allows users to see a list of courses with star ratings and provide reviews for the courses they have taken.",
+		"The professor review page serves a similar purpose but for professors.",
+		"Users can explore the community event page to see events posted by the admin.",
+		"Admin users have access to the admin page, which displays all professors and courses. They can delete any professors or courses from the database and add new courses or professors to be reviewed."
       ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2017",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
