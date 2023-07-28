@@ -13,7 +13,7 @@ labels:
 summary: "In this project, I delved into 3D modeling and learned to rig and skin models for Garry's Mod, a physics-based sandbox game on Steam. I then turned these models into addons available on the Steam Workshop for players to use as playable characters through Lua scripting."
 ---
 
-<img class="img-fluid" src="..img/project-1/workshop.png">
+<img class="img-fluid" src="../img/project-1/workshop.png">
 
 <hr>
 
@@ -47,7 +47,7 @@ list.Set("PlayerOptionsModel", "Asuna", "models/player/sao/asunav2.mdl");
 
 I proudly uploaded my 3D models as addons to the Steam Workshop, making them accessible to the Gmod community. You can check out my Steam Workshop addons at this [steam link](https://steamcommunity.com/id/sidestep/myworkshopfiles/).
 
-<img class="img-fluid" src="..img/project-1/asuna.png>
+<img class="img-fluid" src="../img/project-1/asuna.png>
 
 ### Conclusion
 
