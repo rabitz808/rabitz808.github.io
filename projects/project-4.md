@@ -16,7 +16,6 @@ summary: "A group project on website development led my me and 4 other members t
 
 <hr>
 
-<pre>
 ## The Goal
 
 As a final group project for our ICS 314 class, we were tasked with forming a group and working on developing a website. My group members were Hangbo Zhang, Nicholas Lee, Taylor Wong, Clement Chow, and myself. We decided to make a website capable of rating professors and classes for our college campus. This was a first and exciting project for me mainly due to the fact that it was one of the more larger scaled projects that required us to work as a team. I quickly got used to creating tasks and issues for each milestone as well as pulling and merging branches on GitHub, however, there were still some challenges we faced.
@@ -28,4 +27,3 @@ One of the challenges we faced was when we were creating issues to be completed.
 Next was the problem of pulling and merging. After analyzing our network history on GitHub, we realized that a lot of our branches were inconsistent. A lot of the times, branches were made from other branches and not the main. They should all be branched off the main, then once the issue is solved, merged back into the main. That would prevent outdated code from being merged back into the main in case an accident happened.
 
 Visit us on [Github](https://uh-ratings.github.io/)
-</pre>
