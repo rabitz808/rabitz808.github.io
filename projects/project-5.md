@@ -18,7 +18,7 @@ summary: "Engineered an online application aimed at managing the inventory of me
 
 ## Overview
 
-an online application aimed at managing the inventory of medical supplies for clinics in Hawai’i. The project focuses on creating a simple and user-friendly interface for users to easily interact with the system.
+An online application aimed at managing the inventory of medical supplies for clinics in Hawai’i. The project focuses on creating a simple and user-friendly interface for users to easily interact with the system.
 
 ## Key Features
 
