@@ -62,25 +62,7 @@
       "area": "Medical Laboratory Technician",
       "studyType": "A.S.",
       "startDate": "2017-05-01",
-      "endDate": "2019-09-01",
-      "courses": [
-        "ICS 111: Intro to Computer Science I",
-        "ICS 141: Discrete Mathematics I",
-        "ICS 211: Intro to Computer Science II",
-        "ICS 212: Program Structure",
-        "ICS 241: Discrete Mathematics II",
-        "ICS 311: Algorithms",
-        "ICS 314: Software Engineering I",
-        "ICS 321: Database Systems I",
-        "ICS 312: Machine-Lvl & Systems Programing",
-        "ICS 332: Operating Systems",
-        "ICS 414: Software Engineering II",
-        "ICS 451: Data Networks",
-        "ICS 427: Software Quality Assurance",
-        "ICS 434: Data Science Fundamentals",
-        "ICS 469: Cognitive Science",
-        "ICS 428: Digital Forensics"
-      ]
+      "endDate": "2019-09-01"
     }
   ],
   "work": [
