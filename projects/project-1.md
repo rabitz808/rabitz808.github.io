@@ -46,7 +46,7 @@ list.Set("PlayerOptionsModel", "Asuna", "models/player/sao/asunav2.mdl");
 
 I proudly uploaded my 3D models as addons to the Steam Workshop, making them accessible to the Gmod community. You can check out my Steam Workshop addons at this [steam link](https://steamcommunity.com/id/sidestep/myworkshopfiles/).
 
-<img class="img-fluid" src="../img/project-1/asuna.png>
+<img class="img-fluid" src="../img/project-1/asuna.png">
 
 ### Conclusion
 

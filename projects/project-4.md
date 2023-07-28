@@ -12,7 +12,7 @@ labels:
 summary: "A group project on website development led my me and 4 other members to design a website capable of rating professors and classes for our college campus."
 ---
 
-<img class="img-fluid" src="../img/project-4/sign-in.png>
+<img class="img-fluid" src="../img/project-4/sign-in.png">
 
 <hr>
 

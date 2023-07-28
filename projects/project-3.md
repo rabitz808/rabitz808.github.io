@@ -10,7 +10,7 @@ labels:
 summary: "A program I developed for ICS 212 using C that utilizes math functions to calculate the hypotenuse of a right triangle of randomly generated lengths."
 ---
 
-<img class="img-fluid" src="../img/project-3/hypotenusefiles.png>
+<img class="img-fluid" src="../img/project-3/hypotenusefiles.png">
 
 <hr>
 
