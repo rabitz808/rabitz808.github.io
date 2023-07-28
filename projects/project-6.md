@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/project-6/calgainz13.png
-title: "UH-Cryptics"
+title: "CalGainz"
 date: 2022
 published: true
 labels:
