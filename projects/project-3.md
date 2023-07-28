@@ -4,6 +4,7 @@ type: project
 image: img/hypotenuse.png
 title: "Hypotenuse Solver"
 date: 2020
+published: true
 labels:
   - C
 summary: "A program I developed for ICS 212 using C that utilizes math functions to calculate the hypotenuse of a right triangle of randomly generated lengths."
